@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\obj\Debug\net6.0\OOPPolymorphisme.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\obj\Debug\net6.0\OOPPolymorphisme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\obj\Debug\net6.0\OOPPolymorphisme.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\obj\Debug\net6.0\OOPPolymorphisme.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\obj\Debug\net6.0\OOPPolymorphisme.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\bin\Debug\net6.0\OOPPolymorphisme.exe
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\bin\Debug\net6.0\OOPPolymorphisme.deps.json
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\bin\Debug\net6.0\OOPPolymorphisme.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\bin\Debug\net6.0\OOPPolymorphisme.dll
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\bin\Debug\net6.0\OOPPolymorphisme.pdb
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\obj\Debug\net6.0\OOPPolymorphisme.dll
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\obj\Debug\net6.0\refint\OOPPolymorphisme.dll
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\obj\Debug\net6.0\OOPPolymorphisme.pdb
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\obj\Debug\net6.0\OOPPolymorphisme.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\OOPPolymorphisme\OOPPolymorphisme\obj\Debug\net6.0\ref\OOPPolymorphisme.dll
